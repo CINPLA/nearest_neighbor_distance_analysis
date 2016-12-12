@@ -6,6 +6,8 @@
 % Author: Andreas V. Solbrå
 % contact: a.v.solbra@fys.uio.no
 
+clear all; close all;
+
 length = 546;  %length of fiber 
 radius = 20.8;   %radius of fiber
 circumference = 2*radius*pi; 
